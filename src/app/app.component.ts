@@ -27,9 +27,9 @@ export class AppComponent {
     },
     {
       title: 'Mountain Biking',
-      imageUrl: 'assets/biking.jpeg',
+      imageUrl: 'assets/bicycle.jpg',
       username: 'biking125',
-      content: 'I did some biking today'
+      content: 'Having a fun time close to "nature"!'
     }
   ];
 }
